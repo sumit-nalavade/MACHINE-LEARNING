@@ -44,9 +44,6 @@ The repository is organized as follows:
 - **K-Means Clustering**: Clustering data into groups based on features.
 - **PCA**: Dimensionality reduction using Principal Component Analysis.
 
-### 3. Deep Learning
-- **Convolutional Neural Networks (CNNs)**: Image classification tasks.
-
 ## Dependencies
 The projects require the following Python libraries:
 - `numpy`
